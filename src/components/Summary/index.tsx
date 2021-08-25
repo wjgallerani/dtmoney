@@ -22,7 +22,7 @@ export function Summary() {
                 <strong> 1000 </strong>
             </div>
 
-            <div>
+            <div className="highligth-background">
                 <header>
                     <p>Total</p>
                     <img src={total} alt="Total" />
